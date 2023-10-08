@@ -61,18 +61,19 @@ a:active {
     color: #E5E7EB;
     justify-content: center;
     align-items: center;
-    width: 450px;
+    width: 400px;
     margin-top: 0;
 }
 
 .sect2-signup {
     background-color: #3882F6;
     color: white;
-    display: flex;
-    font-size: 18px;
+    font-size: 17px;
     padding: 5px 30px 5px 30px;
     border-radius: 10px;
     margin-top: 10px;
+    width: 125px;
+
 }
 
 .sect2-image {
@@ -82,4 +83,5 @@ a:active {
     padding: 100px 150px 100px 150px;
     display: flex;
     margin: 5px;
+    margin-left: 30px;
 }
