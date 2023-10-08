@@ -132,3 +132,23 @@ a:active {
     width: 155px;
     font-size: 18px;
 }
+
+
+.section4 {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    width: 750px;
+}
+
+.quotespeaker {
+    margin-left: 500px;
+}
